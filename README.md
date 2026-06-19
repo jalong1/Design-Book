@@ -1,7 +1,7 @@
 # Design-Book
 The design philosophy, architecture, and research foundation for an open Educator Intelligence Platform.
 
-The Educator Intelligence Platform
+The Educator Intelligence Platform Defining Statement:
 
 Educators teach best when they can be fully present. Improving educators’ working conditions improves students’ learning conditions.
 
