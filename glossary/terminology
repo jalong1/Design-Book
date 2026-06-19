@@ -1,0 +1,46 @@
+# Terminology
+## Purpose
+This document defines the shared vocabulary of the Educator Intelligence Platform.
+The terminology presented here establishes a common language for the Design Book, research library, software architecture, and future publications. Many of these concepts are original to this project and should be considered living definitions that evolve alongside the platform.
+---
+# Term Name
+## Definition
+A concise academic definition of the concept.
+## Context
+Explain why the concept matters within the Educator Intelligence Platform.
+## Design Implications
+Describe how this concept influences architecture, workflows, or educational practice.
+## Related Terms
+- Related Concept
+- Related Concept
+- Related Concept
+## First Introduced
+Chapter X — Chapter Title
+---
+# Administrative Gravity
+## Definition
+The cumulative administrative responsibilities that divert an educator's attention away from direct teaching, mentorship, scholarship, and artistic practice.
+## Context
+Administrative Gravity serves as one of the foundational concepts of the Educator Intelligence Platform. Rather than describing any single task, it characterizes the collective effect of numerous administrative responsibilities on an educator's attention and available cognitive resources.
+## Design Implications
+The platform should minimize unnecessary context switching, preserve task continuity, and reduce friction between administrative work and instructional practice.
+## Related Terms
+- Attention Fragmentation
+- Pedagogical Presence
+- Instructional Continuity
+## First Introduced
+Chapter 2 — The Problem
+---
+# Pedagogical Presence
+## Definition
+The capacity of an educator to devote sustained attention, preparation, and authentic engagement to teaching and learning.
+## Context
+Pedagogical Presence represents the principal objective of the Educator Intelligence Platform. Every architectural decision should ultimately contribute to increasing an educator's presence with students.
+## Design Implications
+Features should be evaluated according to whether they increase or diminish pedagogical presence.
+## Related Terms
+- Administrative Gravity
+- Professional Memory
+- Instructional Continuity
+## First Introduced
+Chapter 1 — Why the Educator Intelligence Platform Exists
