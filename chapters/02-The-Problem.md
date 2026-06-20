@@ -142,3 +142,66 @@ Growing Educational Needs
             ▼
  Less Attention Available
      for Students
+Fragmentation and the Cost of Reconstruction
+
+In the previous chapter, professional judgment was described as emerging through a continual cycle of experience, reflection, and practice. Fragmentation interrupts this cycle not by preventing experience, but by consuming the time and attention required for reflection. Increasingly, educators spend professional energy reconstructing what they already know instead of reflecting upon what they have learned.
+
+Professional knowledge rarely disappears all at once.
+
+More often, it becomes fragmented.
+
+Lecture notes remain in one location. Course materials reside in another. Committee decisions are preserved in meeting minutes. Important conversations exist within email archives. Policies occupy institutional repositories. Assessment reports document outcomes. Calendars record commitments. Personal notes remain scattered across notebooks, cloud drives, and memory.
+
+The individual pieces often survive.
+
+The relationships between them gradually weaken.
+
+This distinction is essential because professional knowledge consists not only of artifacts but also of the relationships that give those artifacts meaning. A syllabus records what was taught. Reflection explains why it changed. Assessment data documents outcomes. Experience gives those outcomes interpretation. Meeting minutes preserve decisions. Context preserves understanding.
+
+Information rarely possesses meaning in isolation.
+
+A single note may appear obvious when written yet become almost incomprehensible months later. An assessment report may document results while omitting the conversations that shaped its conclusions. A carefully revised lecture may survive long after the questions that inspired its revision have been forgotten. The artifact remains. The professional understanding that once surrounded it slowly erodes.
+
+Memory alone cannot sustain professional knowledge.
+
+Human memory is selective, interpretive, and continually reshaped by subsequent experience. When continuity depends primarily upon recollection, educators inevitably reconstruct portions of their past practice rather than reconnect with it. The result is rarely deliberate reflection. More often, it is an earnest attempt to recover professional understanding from incomplete fragments.
+
+This work has become so commonplace that it often passes unnoticed.
+
+Searching for an email whose existence is certain but whose location is uncertain.
+
+Remembering why a successful assignment was revised.
+
+Rebuilding a course after discovering that previous materials no longer carry the context needed to use them confidently.
+
+Rediscovering committee decisions because the reasoning behind them has faded from institutional memory.
+
+Recreating explanations, examples, or assessment strategies that once existed but can no longer be fully reconstructed.
+
+These are not isolated inconveniences.
+
+They are acts of reconstruction.
+
+Reconstruction is an essential human capacity. It allows educators to recover continuity when it has been lost. Yet reconstruction should not become the primary mode through which professional knowledge is sustained.
+
+Renewal is a vital part of educational practice. Experienced educators regularly revise courses, rethink assessments, and redesign learning experiences. Such renewal is a product of reflection. Reconstruction, by contrast, occurs when continuity has been lost.
+
+One advances professional knowledge.
+
+The other merely recovers it.
+
+When reconstruction becomes routine, reflection quietly recedes.
+
+Professional energy shifts away from asking, “How can this become better?” toward asking, “What did I do before?”
+
+The loss is subtle but significant.
+
+Time spent reconstructing yesterday cannot be spent reflecting upon tomorrow.
+
+Professional knowledge is living.
+
+It grows through continued reflection, changing relationships, shared experience, and thoughtful adaptation. Fragmentation does not destroy this living knowledge. It buries it beneath disconnected artifacts whose relationships must be rediscovered before meaningful growth can continue.
+
+Reconstruction attempts to recover what has been disconnected.
+
+Reflection builds upon what has remained connected.
