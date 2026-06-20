@@ -88,5 +88,57 @@ It determines where that generosity will be spent.
 The question before us, then, is not whether educators possess enough information.
 
 It is whether the environments in which they work allow their finite professional capacity to remain directed toward the students, colleagues, scholarship, and communities that give education its enduring purpose.
+The Expansion of Educational Work
 
+The history of education is not a story of decline. It is a story of increasing complexity.
+
+Each generation asks education to accomplish more than the one before it. Schools and universities are expected not only to cultivate disciplinary knowledge but also to improve student success, expand access, strengthen civic engagement, demonstrate accountability, support accessibility, integrate emerging technologies, prepare students for evolving professions, contribute to their communities, and respond thoughtfully to changing social and economic realities.
+
+These expectations are neither accidental nor inherently misplaced. They reflect society’s enduring belief that education matters.
+
+Teaching now exists alongside advising, assessment, curriculum development, accreditation, accessibility, mentoring, scholarship, technology integration, institutional service, communication, and an increasingly interconnected network of responsibilities. Each contributes something valuable. Few replace those that came before.
+
+Across many institutions, educators have experienced changing patterns of faculty employment, increasing reliance on contingent appointments, expanding administrative expectations, and growing demands for institutional accountability. The particular causes differ considerably across institutions and educational systems. Their cumulative effect, however, is remarkably consistent: responsibilities become distributed across fewer people, continuity becomes more difficult to maintain, and the continuity of professional knowledge becomes increasingly fragile.
+
+Every new educational responsibility exerts a small gravitational pull upon an educator’s professional attention. Individually these forces are often modest and well justified. Collectively they reshape the landscape within which educational work takes place.
+
+Complexity itself is not the problem. Education should become more sophisticated as knowledge grows, students’ needs evolve, and institutions respond to changing circumstances. Complexity is a natural consequence of a profession that continually seeks to serve both learners and society more effectively.
+
+The difficulty arises when increasing complexity is no longer accompanied by increasing continuity.
+
+As educational work expands across more systems, more responsibilities, and more institutional processes, the relationships connecting those activities become increasingly difficult to sustain. The work itself continues to grow, yet the continuity that allows professional knowledge to accumulate struggles to keep pace.
+
+The result is not simply more work.
+
+It is work that becomes progressively more fragmented.
+
+Professional knowledge rarely disappears because educators forget.
+
+It becomes increasingly difficult to carry forward.
 Understanding why that capacity has become increasingly fragmented is the problem to which this chapter now turns.
+
+****
+Figure 2.1:
+Growing Educational Needs
+            │
+            ▼
+ Expanded Responsibilities
+            │
+            ▼
+ Increased Complexity
+            │
+            ▼
+     Fragmentation
+            │
+            ▼
+ Loss of Continuity
+            │
+            ▼
+ Continuous Reconstruction
+            │
+            ▼
+ Reduced Professional Capacity
+            │
+            ▼
+ Less Attention Available
+     for Students
