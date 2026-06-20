@@ -205,3 +205,43 @@ It grows through continued reflection, changing relationships, shared experience
 Reconstruction attempts to recover what has been disconnected.
 
 Reflection builds upon what has remained connected.
+
+The Limits of Professional Capacity
+
+The preceding sections have argued that the central challenge facing modern education is not a shortage of information, but a loss of continuity. As professional knowledge becomes increasingly fragmented, educators devote more of their professional lives to reconstruction and less to reflection. The consequences of this shift extend beyond efficiency. They shape the conditions under which professional wisdom is able to develop.
+
+Human beings require continuity in order to transform experience into wisdom.
+
+While educational knowledge, institutional responsibilities, and organizational complexity continue to expand, the fundamental conditions of human cognition remain remarkably consistent. Human attention remains finite. Time remains finite. Memory is selective and interpretive. Emotional energy fluctuates. These are not deficiencies to overcome but characteristics of what it means to be human.
+
+Education has always depended upon these deeply human qualities.
+
+Professional judgment is not produced by unlimited information, but by thoughtful reflection upon lived experience. Wisdom emerges not from experiencing more, but from remaining sufficiently connected to previous experience that new understanding can grow from it.
+
+Continuity is the condition under which experience becomes wisdom.
+
+When continuity weakens, educators do not suddenly become less knowledgeable or less dedicated. They continue teaching, mentoring, serving their institutions, and supporting their students with remarkable commitment. Yet an increasing share of their finite attention becomes devoted to recovering context rather than extending understanding. Reconstruction quietly occupies the space where reflection might otherwise occur.
+
+Reflection requires presence.
+
+Presence, however, rarely emerges without margin. It requires the time and mental space to thoughtfully connect past experience with present challenges, to engage colleagues in meaningful conversation, to revise ideas with intention, and to remain fully attentive to students as individuals rather than simply as responsibilities to be managed.
+
+Attention is valuable because it is the medium through which human beings express care.
+
+The deepest scarcity in modern education is therefore not information.
+
+It is human attention.
+
+Every hour spent reconstructing continuity is an hour unavailable for reflection.
+
+Every hour unavailable for reflection is an hour in which professional judgment cannot fully mature.
+
+This is not an indictment of educators, institutions, or the technologies that support them. Educational institutions have evolved more rapidly than the ways in which professional knowledge is carried forward. The result is not a failure of commitment, but a growing mismatch between the increasing complexity of educational work and the finite attention through which human beings perform it.
+
+Education has always been a profoundly communal endeavor. Knowledge is carried forward not only across semesters and careers, but across conversations, collaborations, mentorships, and generations of educators. Community is continuity across people. Reflection is continuity across experience. Education itself is continuity across generations.
+
+The challenge before us is therefore larger than improving the organization of information. It is preserving the continuity that allows professional wisdom to remain living, connected, and capable of continued growth.
+
+The question that remains is no longer how educational systems should store information.
+
+It is how they might better protect the finite human attention upon which professional judgment, meaningful relationships, and the continued growth of wisdom ultimately depend.
