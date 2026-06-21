@@ -64,4 +64,22 @@ The purpose of preservation is to ensure that knowledge survives.
 
 The purpose of stewardship is to ensure that knowledge continues to serve.
 
+3.4 The Character of the Steward
 
+Stewardship is often mistaken for a collection of responsibilities. It is better understood as the gradual formation of a particular kind of person. Responsibilities may be assigned, but stewardship cannot. It develops as individuals learn to receive what has been entrusted to their care with humility, exercise judgment with patience, and accept that the work of cultivation is never fully complete.
+
+Unlike rules, stewardship cannot be reduced to a universal procedure. Every educational moment is particular. Every student, classroom, rehearsal, institution, and community presents circumstances that cannot be addressed through rigid formulas alone. Stewardship is therefore guided not by certainty, but by judgment continually refined through reflection and experience. It asks not simply, What is the correct answer? but rather, What does this moment require of me?
+
+This capacity for discernment distinguishes stewardship from mere administration. Administration seeks consistency wherever possible. Stewardship recognizes that faithful care often requires different responses to different situations. Sometimes stewardship calls for intervention. Sometimes it calls for restraint. Sometimes growth requires careful cultivation. Sometimes it requires patience enough to allow understanding, trust, or community to mature in their own season. Faithfulness is measured not by constant activity, but by attentive care directed toward what has been entrusted to us.
+
+The steward gradually develops certain dispositions through faithful practice. Humility reminds us that we inherit more than we create. Gratitude recognizes both those who have shaped us in the past and those who continue to shape us in the present. Hope sustains the conviction that today's work may bless people we will never meet. Patience accepts that genuine growth cannot be hurried. Discernment enables us to recognize what each particular moment asks of us rather than imposing the same answer upon every circumstance. These virtues are not prerequisites for stewardship; they are cultivated through stewardship itself.
+
+Character is not merely what makes stewardship possible. Stewardship is one of the ways character is formed. As experience is refined through reflection, repeated practice becomes habit; habits gradually become character; character shapes judgment; and trustworthy judgment becomes the hallmark of faithful stewardship.
+
+We cultivate traditions, and in doing so, the traditions cultivate us.
+
+Stewardship is therefore reciprocal. Each act of faithful care reshapes the steward as surely as it shapes the knowledge, community, or institution entrusted to them. We are formed by the very responsibilities we faithfully undertake.
+
+For this reason, stewardship is not simply something an educator does. It is an orientation before it is an action—a way of attending to the world. The steward sees professional knowledge not as a possession to accumulate, nor merely as an artifact to preserve, but as a living tradition entrusted to human care. Such traditions are received with gratitude, cultivated with humility, exercised with wisdom, and entrusted with hope.
+
+Every human being possesses the capacity for stewardship, but stewardship itself remains an orientation that must be embraced. It is a continual decision to care faithfully for what has been entrusted to us so that those who come after us may inherit not only what we received, but something richer still.
