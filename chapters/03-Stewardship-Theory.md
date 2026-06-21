@@ -103,3 +103,19 @@ The steward therefore cares not only for knowledge itself, but for the living co
 Mechanical continuity repeats what already exists. Living continuity allows what has been inherited to continue growing. One duplicates. The other develops. One protects the form of knowledge. The other nurtures its capacity to remain meaningful within changing communities and changing generations. Stewardship therefore asks not simply whether knowledge survives, but whether it continues to deepen human understanding and strengthen the relationships through which it lives.
 
 Stewardship does not exist for the sake of knowledge. Knowledge exists for the sake of people, and stewardship exists to ensure that this relationship continues across generations. To steward education is therefore to cultivate the conditions through which people, communities, and wisdom continue to mature together.
+
+3.6 From Stewardship to Infrastructure
+
+The preceding sections have argued that professional knowledge is living, that fragmentation threatens its continuity, and that stewardship is the philosophy through which living traditions are intentionally cultivated across generations. These claims are philosophical before they are technological. They describe the nature of educational work rather than the tools through which that work is accomplished.
+
+Stewardship therefore begins with people rather than technology. It asks first what kind of educational life is worth cultivating before asking what tools might support it. It recognizes that the purpose of educational infrastructure is not to replace professional judgment, but to create the conditions under which judgment, reflection, continuity, and community can flourish.
+
+The question is therefore no longer whether educators need better technologies. Modern education possesses no shortage of digital tools. Rather, the question becomes: What kind of environment enables stewardship to flourish? What kind of educational infrastructure protects continuity rather than contributing to fragmentation? What kind of system returns attention to students rather than consuming it? What kind of architecture helps professional knowledge remain living rather than reducing it to static information?
+
+These questions cannot be answered by technology alone because they are not fundamentally technological questions. They are questions of philosophy. Every technological decision ultimately expresses an underlying vision of what education is for, what professional knowledge is, and what responsibilities educators bear toward one another and toward those who will follow them.
+
+Only after these philosophical commitments have been made can meaningful design begin. Infrastructure is never neutral. It always embodies assumptions about the people who will inhabit it and the work they are expected to perform. If stewardship is the governing philosophy, then educational infrastructure must itself become an expression of stewardship. It must cultivate continuity, strengthen professional judgment, preserve institutional memory, encourage reflection, and ultimately return educators' attention to the people they serve.
+
+The chapters that follow explore what such an infrastructure requires. They do not begin with software, databases, or implementation strategies. They begin with the conditions that stewardship demands. Only then can any particular implementation be evaluated—not by its novelty or efficiency alone, but by whether it helps educators remain more present for the people they teach.
+
+For stewardship does not exist for the sake of knowledge. Knowledge exists for the sake of people, and educational infrastructure exists to sustain that relationship across generations.
