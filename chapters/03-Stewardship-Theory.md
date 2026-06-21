@@ -40,4 +40,28 @@ Unlike preservation, stewardship has no point of completion. Preservation asks h
 
 The purpose of stewardship, therefore, is not merely to preserve what has been inherited, but to cultivate it so that those who come after us inherit something better.
 
+3.3 Stewardship versus Preservation
+
+Preservation occupies an essential place within the life of every educational institution. Libraries preserve books. Archives preserve documents. Museums preserve artifacts. Increasingly, digital systems preserve enormous collections of files, recordings, correspondence, and instructional materials. Without preservation, much of humanity's accumulated knowledge would simply disappear.
+
+Stewardship does not diminish the importance of preservation. It depends upon it.
+
+Yet preservation alone cannot sustain living knowledge.
+
+Preservation asks whether something survives. Stewardship asks whether it continues to serve.
+
+This distinction is one of purpose rather than effort. Faithful preservation often demands extraordinary care, discipline, and expertise. The difference is not that stewardship works harder than preservation. The difference is that stewardship extends beyond protection toward cultivation. Preservation safeguards what has been received. Stewardship assumes responsibility for what it may yet become.
+
+Professional knowledge is unlike an artifact displayed behind glass. It matures through continued use, thoughtful reflection, generous conversation, careful revision, and renewed practice. A lesson preserved but never revisited gradually loses its vitality. A curriculum protected but never refined eventually ceases to reflect the needs of its students. Knowledge survives, yet its capacity to serve quietly diminishes.
+
+Stewardship therefore possesses a different orientation toward time. Preservation primarily faces the past, asking how inherited knowledge may be protected from loss. Stewardship receives that inheritance with gratitude, cultivates it faithfully in the present, and entrusts it to those who come after us with hope. It is simultaneously an act of remembrance, participation, and anticipation.
+
+Cultivation is the primary practice through which stewardship fulfills this responsibility. To cultivate is not merely to add more. Sometimes cultivation means refining. Sometimes it means pruning. Sometimes it means waiting. Sometimes it means recognizing that growth requires seasons of rest before renewal becomes possible. Stewardship is measured not by constant intervention but by faithful discernment—knowing not only when to act, but when restraint better serves the flourishing of what has been entrusted to our care.
+
+For this reason, stewardship is not simply something educators do. It is an orientation before it is an action. It is a way of seeing professional knowledge not as a possession to accumulate, nor merely as an inheritance to preserve, but as a living tradition worthy of faithful cultivation.
+
+The purpose of preservation is to ensure that knowledge survives.
+
+The purpose of stewardship is to ensure that knowledge continues to serve.
+
 
