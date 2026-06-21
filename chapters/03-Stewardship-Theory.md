@@ -83,3 +83,23 @@ Stewardship is therefore reciprocal. Each act of faithful care reshapes the stew
 For this reason, stewardship is not simply something an educator does. It is an orientation before it is an action—a way of attending to the world. The steward sees professional knowledge not as a possession to accumulate, nor merely as an artifact to preserve, but as a living tradition entrusted to human care. Such traditions are received with gratitude, cultivated with humility, exercised with wisdom, and entrusted with hope.
 
 Every human being possesses the capacity for stewardship, but stewardship itself remains an orientation that must be embraced. It is a continual decision to care faithfully for what has been entrusted to us so that those who come after us may inherit not only what we received, but something richer still.
+
+3.5 The Living Tradition
+
+What, then, is the steward called to steward?
+
+The answer is not merely information, documents, lesson plans, or institutional procedures. These are important, but they are not the living heart of education.
+
+We do not inherit answers. We inherit conversations worth continuing.
+
+Professional knowledge lives not primarily within books, databases, or individual minds, but between people. It exists within classrooms, rehearsals, laboratories, studios, offices, and communities where questions are continually asked, understanding is continually refined, and experience is continually shared. Knowledge remains alive because people participate in it together.
+
+This is what is meant by a living tradition. Tradition is not the refusal to change, nor the uncritical repetition of the past. Neither is it the pursuit of novelty for its own sake. Living traditions endure because they possess the capacity for responsible renewal. They remember what must endure while exercising the discernment to recognize what should deepen, mature, or be reimagined. They remain recognizable without becoming stagnant, and they remain dynamic without forgetting who they are.
+
+Education therefore proceeds through participation rather than mere transmission. Students do not simply receive information; they enter conversations that began long before they arrived. Teachers do not merely deliver knowledge; they invite others into communities of inquiry, practice, and reflection that they themselves once entered as learners. Every educator inherits a tradition already in progress and contributes to its continuing life before entrusting it to those who come after.
+
+The steward therefore cares not only for knowledge itself, but for the living conditions through which knowledge continues to serve people. A classroom's trust, a rehearsal's culture, a department's institutional memory, a colleague's question, a student's confidence, and a community's shared purpose are not incidental to education. They are among the conditions that allow wisdom to emerge, mature, and be shared across generations. These living realities cannot simply be preserved; they must be continually cultivated through attention, judgment, and care.
+
+Mechanical continuity repeats what already exists. Living continuity allows what has been inherited to continue growing. One duplicates. The other develops. One protects the form of knowledge. The other nurtures its capacity to remain meaningful within changing communities and changing generations. Stewardship therefore asks not simply whether knowledge survives, but whether it continues to deepen human understanding and strengthen the relationships through which it lives.
+
+Stewardship does not exist for the sake of knowledge. Knowledge exists for the sake of people, and stewardship exists to ensure that this relationship continues across generations. To steward education is therefore to cultivate the conditions through which people, communities, and wisdom continue to mature together.
