@@ -2,7 +2,7 @@ Epigraph: To be finalized (preferably an authentic quotation from Wendell Berry 
 
 3.1 The Question of Responsibility
 
-The preceding chapters argued that professional knowledge is living rather than static. It grows through experience, reflection, conversation, and practice. They also argued that the greatest threat facing modern education is not the disappearance of information, but the erosion of continuity. When continuity is lost, educators spend their time reconstructing what was once known instead of extending it through renewed experience. Knowledge survives, but wisdom struggles to accumulate.
+The preceding chapters argued that professional knowledge is living rather than static. It grows through experience, reflection, conversation, and practice. I also argued that the greatest threat facing modern education is not the disappearance of information, but the erosion of continuity. When continuity is lost, educators spend their time reconstructing what was once known instead of extending it through renewed experience. Knowledge survives, but wisdom struggles to accumulate.
 
 This raises a deeper philosophical question.
 
