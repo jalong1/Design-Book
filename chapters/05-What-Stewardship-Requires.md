@@ -216,3 +216,74 @@ What is recorded must still be understood.
 The steward therefore does more than record.
 
 The steward interprets.
+5.4 Interpreting What Must Be Understood
+
+If recording helps inheritance survive transition, interpretation helps inheritance remain meaningful.
+
+Educational communities often devote significant effort to preserving records, traditions, practices, and knowledge. Yet preservation alone cannot guarantee understanding. Documents may survive. Stories may be retained. Traditions may continue. Even extensive records can remain available for generations.
+
+Meaning, however, does not preserve itself.
+
+A practice can survive long after its purpose has been forgotten.
+
+Most educators have encountered some version of this reality. A policy remains in place because it has always existed. A procedure continues because it has always been followed. A tradition persists because it has always been observed. When questions arise regarding its purpose, the answer is often some variation of:
+
+“We have always done it this way.”
+
+While such responses may preserve continuity, they rarely preserve understanding.
+
+Inheritance without interpretation eventually becomes repetition without meaning.
+
+This is one of stewardship’s central concerns. The steward is responsible not merely for helping educational communities remember what happened, but for helping them understand why it mattered. Facts, records, and traditions possess significance that extends beyond their immediate existence. The steward seeks to preserve this significance so that inheritance remains capable of informing future judgment.
+
+For this reason, interpretation begins with intentionality.
+
+The steward asks questions that recording alone cannot answer.
+
+Why was this decision made?
+
+What problem was this practice intended to address?
+
+What lesson emerged from this experience?
+
+What should future generations understand before deciding whether to preserve, adapt, or abandon what they have inherited?
+
+These questions transform inheritance from a collection of artifacts into a source of wisdom.
+
+Interpretation therefore differs from explanation. Explanation often seeks to communicate answers. Interpretation seeks to uncover significance. It asks not only what occurred, but why the experience mattered and what understanding it may continue to offer.
+
+This distinction is particularly important because educational life is filled with practices whose meaning is not immediately obvious. Curricular structures, institutional traditions, artistic practices, pedagogical approaches, and community customs often emerge through years of experimentation, reflection, and adaptation. Their significance cannot always be discovered by examining the final result alone.
+
+The steward therefore looks beneath the surface of inheritance.
+
+Not to defend every tradition.
+
+Not to preserve every decision.
+
+But to understand what wisdom, if any, remains within them.
+
+This responsibility requires humility. The steward recognizes that meaning is often larger than any single perspective. What appears unnecessary may contain forgotten lessons. What appears obvious may depend upon assumptions that future generations no longer share. Interpretation therefore begins with a question familiar to every thoughtful educator:
+
+What am I missing?
+
+The purpose of interpretation is not to prevent change. Educational life must continue to grow, adapt, and respond to new circumstances. Rather, interpretation ensures that change occurs with understanding. Communities that understand why something existed are better equipped to determine whether it should continue, evolve, or conclude.
+
+In this sense, interpretation protects educational communities from meaninglessness.
+
+It preserves the connections between actions and purposes, practices and lessons, traditions and understanding. It helps communities recognize not only what has been inherited, but why that inheritance might still matter.
+
+Meaning allows inheritance to remain alive.
+
+Without meaning, inheritance becomes difficult to distinguish from accumulation.
+
+Without interpretation, inheritance becomes difficult to distinguish from habit.
+
+The steward therefore interprets so that what has been received may continue to teach.
+
+Yet interpretation rarely occurs in isolation.
+
+Meaning emerges through conversation, reflection, mentorship, and shared inquiry. Understanding deepens as people encounter perspectives different from their own and discover insights they could not have reached alone.
+
+The steward therefore does more than interpret.
+
+The steward connects.
