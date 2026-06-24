@@ -99,3 +99,51 @@ They are acts of inheritance.
 Stewardship begins by receiving an inheritance.
 
 It matures by becoming one.
+
+5.2 Remembering What Matters
+
+If stewardship begins by receiving an inheritance, its first practice is remembering what has been received.
+
+Stewardship remembers more than information. It remembers the lessons, judgments, experiences, and relationships through which information acquires meaning.
+
+Yet remembering is not merely a matter of retention. Every educational community possesses more experiences, stories, and knowledge than any individual can fully carry. The question is therefore not whether everything can be remembered. It cannot.
+
+The question is what must be remembered.
+
+Stewardship resists the forgetting that is preventable.
+
+Not every lesson should be preserved indefinitely, nor should every decision become part of an institution’s permanent memory. Educational life depends upon adaptation, revision, and growth. To remember well requires judgment. The steward must discern which experiences continue to teach, which lessons remain relevant, and which forms of understanding deserve to survive transition.
+
+This responsibility extends beyond information alone. Educational inheritance includes not only what educators know, but what they create, cultivate, and make possible for others. Communities inherit scholarship, artistic work, curricular innovations, teaching practices, traditions, stories, and relationships. They inherit successes that reveal what is possible and failures that reveal what should be approached differently. Much of what shapes educational life exists not within formal documents but within the lived experiences of those who participate in it.
+
+For this reason, stewardship requires attention to more than institutional memory. The steward remembers the hard-won lessons that emerged through practice. The steward remembers the questions that shaped important decisions. The steward remembers the experiences that transformed information into judgment and judgment into wisdom.
+
+Remembering is therefore an act of discernment. It asks not simply, “What happened?” but rather, “What remains worth carrying forward?”
+
+This responsibility becomes especially important because educational life extends beyond the participation of any individual. Every educator eventually leaves the classroom. Every administrator eventually hands responsibilities to someone else. Every generation eventually gives way to the next.
+
+Stewardship exists because individual participation is temporary while educational life continues.
+
+If inheritance depends entirely upon individual memory, inheritance eventually fails. Wisdom that lives within only one person remains vulnerable to disappearance. The lessons that guide a community today can be lost tomorrow if they are never shared, discussed, or carried forward.
+
+The consequences of forgetting are often subtle. Communities find themselves revisiting questions that were once answered. Problems previously solved reappear as though they were new. Hard-earned lessons must be learned again. Educational life becomes trapped in cycles of unnecessary rediscovery.
+
+Every preventable rediscovery is evidence of a forgotten inheritance.
+
+Yet stewardship remembers for more than practical reasons. Remembering is also an act of gratitude.
+
+To remember is to acknowledge that we did not arrive here alone. The opportunities we inherit were created through the labor of others. The wisdom available to us was often developed through experiences we never personally witnessed. The communities we join existed before our arrival and will continue after our departure.
+
+Remembering honors this reality.
+
+It reminds us that what we possess was received before it was ever passed forward.
+
+For this reason, remembering is among the steward’s first responsibilities. Before wisdom can be preserved, interpreted, shared, or cultivated, it must first be remembered. Inheritance depends upon a community’s willingness to carry forward what remains worthy of remembrance.
+
+Memory alone, however, cannot sustain inheritance indefinitely.
+
+What one generation remembers must eventually become available to the next.
+
+The steward therefore does more than remember.
+
+The steward records.
