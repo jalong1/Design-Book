@@ -46,3 +46,56 @@ To understand stewardship is to recognize these responsibilities.
 
 To practice stewardship is to accept them.
 ****
+5.1 To Receive and To Leave
+
+Stewardship begins with a simple recognition: no educator begins their work alone.
+
+Every teacher, administrator, mentor, and leader enters a profession shaped by the labor of others. The lessons we teach were developed by those who came before us. The practices we employ were refined through experiences we did not personally witness. The wisdom that guides our decisions was often inherited long before it became our own.
+
+Educational life is therefore never an individual achievement.
+
+It is an inheritance.
+
+This inheritance extends beyond curriculum guides, policy documents, and institutional records. Educators inherit ways of seeing, habits of judgment, stories of success and failure, and countless lessons embedded within communities of practice. Much of what guides professional life is received long before it is fully understood.
+
+For this reason, stewardship begins not with creation but with gratitude.
+
+Before we contribute to educational life, we benefit from it. Before we teach others, we are taught. Before we leave an inheritance, we receive one.
+
+Yet stewardship does not end with receiving.
+
+Every inheritance creates a responsibility.
+
+To receive something valuable without preserving its future is to interrupt the very process that made its receipt possible. The knowledge, wisdom, and opportunities entrusted to one generation are not given solely for its benefit. They are entrusted to that generation’s care.
+
+The steward therefore occupies a unique position between past and future.
+
+A steward is neither the origin of an inheritance nor its final destination.
+
+The steward stands in the middle.
+
+Receiving from those who came before.
+
+Preparing for those who will follow.
+
+This position carries both humility and responsibility. Humility reminds us that much of what we possess was inherited. Responsibility reminds us that much of what will endure depends upon what we leave behind.
+
+Stewardship therefore asks a fundamentally intergenerational question:
+
+What must we do with what we have received?
+
+The answer cannot be limited to preservation alone. An inheritance locked away from use eventually loses its vitality. Educational knowledge remains living knowledge only when it continues to be practiced, interpreted, challenged, refined, and shared.
+
+For this reason, stewardship is not the work of protecting the past from change.
+
+It is the work of carrying wisdom forward without allowing it to disappear.
+
+The practices of stewardship emerge from this responsibility. Stewards remember what should not be forgotten. They record what must survive transition. They interpret what requires understanding. They connect people to the communities from which wisdom emerges. They cultivate the conditions under which inherited knowledge can continue to grow.
+
+These practices are not separate tasks.
+
+They are acts of inheritance.
+
+Stewardship begins by receiving an inheritance.
+
+It matures by becoming one.
