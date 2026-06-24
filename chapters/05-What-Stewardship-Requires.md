@@ -45,3 +45,4 @@ The responsibilities examined in this chapter emerge not from technology, instit
 To understand stewardship is to recognize these responsibilities.
 
 To practice stewardship is to accept them.
+****
