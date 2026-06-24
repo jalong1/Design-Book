@@ -147,3 +147,72 @@ What one generation remembers must eventually become available to the next.
 The steward therefore does more than remember.
 
 The steward records.
+5.3 Recording What Must Endure
+
+If remembering protects inheritance from forgetting, recording protects inheritance from disappearance.
+
+Memory allows individuals and communities to carry lessons forward across time. Yet memory alone cannot sustain inheritance indefinitely. Educational life extends beyond the participation of any single educator, administrator, or institution. What one generation remembers must eventually become available to the next.
+
+Recording does not replace memory. It allows memory to survive transition.
+
+For this reason, recording represents one of stewardship’s most important practices. Yet stewardship does not record everything. Just as remembering requires discernment, recording requires judgment.
+
+The question is not what can be recorded.
+
+The question is what is worth carrying forward.
+
+Educational communities generate an enormous volume of information. Documents accumulate. Messages multiply. Reports expand. Digital systems make it increasingly possible to preserve nearly everything. Yet stewardship is not measured by the quantity of what is retained.
+
+Accumulation is not inheritance.
+
+A library differs from a warehouse because someone exercised judgment about what deserved preservation and why. Likewise, stewardship seeks meaningful continuity rather than perfect retention. The steward records not simply to save information, but to ensure that future generations can benefit from what has been learned.
+
+This responsibility extends beyond formal documentation. Educational inheritance includes not only what educators know, but what they create, cultivate, and make possible for others. Scholarship, artistic work, curricular innovations, reflective practice, mentorship, traditions, and institutional stories all contribute to the inheritance of an educational community.
+
+Many of the most important things educators pass forward are not easily reduced to data.
+
+A lesson plan may reveal what was taught.
+
+A reflection may reveal what was learned.
+
+A policy may reveal what was decided.
+
+A story may reveal why it mattered.
+
+For this reason, stewardship records understanding, not merely information.
+
+The steward records the questions that shaped decisions, the circumstances that influenced important choices, the discoveries that emerged through experience, and the lessons that transformed knowledge into judgment. Recording becomes an act of preserving meaning rather than merely preserving events.
+
+Stories play a particularly important role in this process. Long before formal archives existed, communities carried wisdom through narrative. Stories preserved context, conveyed values, and connected lessons to lived experience. They helped communities remember not only what happened, but what those experiences meant.
+
+In this sense, stories are among humanity’s oldest technologies of inheritance.
+
+Stewardship does not create these narratives. It uncovers and preserves them. Educational experiences already contain meaning. The steward’s task is to ensure that this meaning remains accessible to those who follow.
+
+Recording is therefore an act of foresight. It acknowledges that future educators will not possess the same experiences, assumptions, relationships, or institutional memory as those who came before them. What seems obvious today may become obscure tomorrow. What appears self-evident within one generation may become difficult to understand within the next.
+
+The steward records with the future in mind.
+
+A useful question therefore emerges:
+
+If everyone involved today disappeared tomorrow, what would future educators need to understand?
+
+This question shifts recording away from accumulation and toward stewardship. It asks not what can be preserved, but what should endure.
+
+Every act of faithful recording reflects confidence that educational life will continue beyond our own participation. It is an acknowledgment that future generations matter and that the lessons available to them need not begin from nothing.
+
+Yet recording alone cannot guarantee understanding.
+
+Records can survive while meaning disappears.
+
+Documents can endure while wisdom remains inaccessible.
+
+Information may be preserved long after the context that once gave it significance has been forgotten.
+
+Recording is necessary, but insufficient.
+
+What is recorded must still be understood.
+
+The steward therefore does more than record.
+
+The steward interprets.
