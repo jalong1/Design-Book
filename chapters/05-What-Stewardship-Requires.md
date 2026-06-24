@@ -348,3 +348,106 @@ Wisdom moves through people before it moves through systems.
 For this reason, connection remains one of stewardship’s most essential practices. It is through relationships that inherited knowledge becomes shared understanding, shared understanding becomes communal wisdom, and communal wisdom becomes capable of enduring across generations.
 
 The steward connects so that what has been inherited may continue to live.
+5.6 Becoming an Inheritance
+
+The practices described throughout this chapter are not ends in themselves.
+
+Remembering, recording, interpreting, and connecting all serve a larger purpose. They help ensure that wisdom remains capable of surviving across time, relationships, and generations. Yet stewardship ultimately concerns more than the preservation of inheritance.
+
+Stewardship also concerns the formation of the steward.
+
+This realization marks an important shift. At the beginning of this chapter, inheritance appeared as something external to the steward. It was something received, protected, and passed forward. Stewardship seemed primarily concerned with what a person does.
+
+Over time, however, the practices of stewardship begin shaping the person who performs them.
+
+The steward is changed by the work of stewardship.
+
+To remember what matters requires attentiveness.
+
+To record what must endure requires foresight.
+
+To interpret what must be understood requires humility.
+
+To connect what must be shared requires care.
+
+The practices of stewardship gradually become habits, and those habits gradually become virtues.
+
+Stewardship forms people who recognize that they are part of something larger than themselves.
+
+The steward learns humility because every inheritance reveals how much has been received from others. The steward learns gratitude because wisdom rarely emerges in isolation. The steward learns responsibility because future generations will depend upon decisions made in the present. The steward learns attentiveness because meaning is often found within details that might otherwise be overlooked.
+
+Over time, stewardship transforms how a person understands educational life.
+
+Educational work is no longer viewed as a collection of isolated responsibilities, individual achievements, or temporary tasks. It becomes participation in an ongoing inheritance. The steward begins to recognize that every lesson taught, every student mentored, every relationship cultivated, and every act of care contributes to a continuity that extends beyond any single career, institution, or generation.
+
+This perspective changes the questions a steward asks.
+
+The steward no longer asks only:
+
+What must I accomplish?
+
+The steward also asks:
+
+What am I preserving?
+
+What am I cultivating?
+
+What am I leaving behind?
+
+These questions reveal that stewardship is not merely an orientation toward knowledge.
+
+It is an orientation toward time.
+
+The steward lives with an awareness of those who came before and those who will follow. Every inheritance carries traces of previous generations. Every decision contributes to the inheritance of future generations.
+
+The steward therefore stands in the middle.
+
+Receiving.
+
+Contributing.
+
+Passing forward.
+
+This position is neither a burden nor a claim to importance. It is a recognition that educational life continues beyond the participation of any individual. Stewardship exists because every participant is temporary while the work itself endures.
+
+For this reason, the ultimate measure of stewardship is not how much information was preserved, how many documents were created, or how many traditions were maintained.
+
+The deeper question is whether wisdom remained capable of growth.
+
+Did understanding continue to deepen?
+
+Did relationships continue to flourish?
+
+Did future generations inherit something capable of helping them learn, teach, and contribute?
+
+These questions direct attention away from the steward and back toward the inheritance itself.
+
+A faithful steward does not seek to become memorable.
+
+A faithful steward seeks to make wisdom available.
+
+Yet an unexpected consequence emerges from this work.
+
+Those who faithfully participate in stewardship often become part of the inheritance they received.
+
+Their lessons are remembered.
+
+Their examples are shared.
+
+Their influence continues through the people they taught, the communities they strengthened, and the opportunities they helped create.
+
+Not because they sought recognition.
+
+But because they contributed to continuity.
+
+Stewardship therefore begins by receiving an inheritance.
+
+It matures by becoming one.
+
+To understand a reality is to become responsible to it.
+
+To accept that responsibility is to practice stewardship.
+
+To practice stewardship is to be changed by it.
+
+And through that change, the steward becomes part of the inheritance entrusted to those who follow.
