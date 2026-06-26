@@ -149,3 +149,27 @@ It is the outcome of faithful entrusting.
 When educational inheritance is repeatedly received with humility, preserved with care, retrieved with fidelity, and entrusted with wisdom, continuity emerges naturally across generations. The architecture does not create this continuity. It simply cultivates the conditions under which it can endure.
 
 The measure of a stewardship-oriented architecture is therefore not the amount of information it contains, but the degree to which it enables each generation of educators to leave those who follow better prepared than they themselves began.
+
+Conclusion
+
+The purpose of this chapter has not been to prescribe a particular technology, software platform, or implementation. It has been to identify the enduring architectural capabilities required of any infrastructure that seeks to faithfully embody stewardship.
+
+Architectures will continue to evolve.
+
+Implementations will continue to change.
+
+New technologies will emerge, mature, and eventually disappear.
+
+The responsibilities of stewardship, however, remain remarkably constant.
+
+A stewardship-oriented architecture must be capable of receiving educational experience, preserving it with sufficient context, retrieving it when it is needed, and supporting its faithful entrusting to those who follow. These capabilities do not define a software system. They describe the enduring responsibilities of infrastructure that exists in service of educational communities rather than in place of them.
+
+The architecture presented in this chapter therefore reaches an intentional limit. It cannot become the steward. It cannot determine meaning. It cannot inherit responsibility. It cannot decide what future educators ought to value. Those responsibilities properly belong to the communities who receive, interpret, and extend the educational inheritance entrusted to them.
+
+Good architecture is therefore measured not by its complexity, its intelligence, or its sophistication, but by its humility. The most faithful architecture is often the one that quietly supports educational life without becoming its center.
+
+When infrastructure faithfully receives, preserves, retrieves, and supports the entrusting of educational inheritance, something larger becomes possible. Educators spend less time reconstructing the past and more time cultivating the future. Institutions remember more faithfully. Communities inherit more wisely. Students benefit from educators who are increasingly free to devote their attention to teaching, learning, and one another.
+
+The ultimate purpose of a stewardship-oriented architecture is not to preserve technology.
+
+It is to preserve the conditions under which educational wisdom may continue to grow.
