@@ -97,3 +97,15 @@ This capability intentionally avoids specifying technologies or methods of colle
 Receiving is therefore an architectural commitment to openness rather than a prescription for technology. It acknowledges that educational wisdom appears in many forms and that no single implementation can anticipate every way in which educators will create, share, and preserve their professional knowledge.
 
 Receiving prepares the way for preservation. An inheritance must first be received before it can be faithfully preserved.
+
+Preserving
+
+A stewardship-oriented architecture must be capable of preserving educational experience in ways that remain meaningful across time.
+
+Preserving is more than retaining information. Educational artifacts separated from their context gradually lose the meaning they once possessed. Notes become disconnected from the circumstances that inspired them. Decisions become separated from the questions they attempted to answer. Resources outlive the purposes for which they were created. What remains may be accurate, yet no longer understandable.
+
+For this reason, preservation is not simply the retention of artifacts but the preservation of relationships. Educational experience should remain connected to the people, circumstances, reflections, and histories from which it emerged. Context, provenance, and continuity are not additional features of preservation; they are the means through which preservation remains faithful.
+
+This capability does not prescribe particular methods of storage, indexing, or organization. Those are implementation decisions that will continue to evolve. The architectural responsibility is more enduring: educational memory should remain intelligible to those who inherit it.
+
+Preserving therefore serves continuity rather than permanence. The purpose is not to prevent change but to ensure that educational knowledge remains sufficiently coherent for future stewards to understand, reinterpret, and faithfully continue the work entrusted to them.
