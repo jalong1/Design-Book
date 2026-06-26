@@ -85,3 +85,15 @@ Constitutional Constraints
 * Infrastructure cannot become the inheritance.
 
 The architecture is cyclical rather than linear. Educational experience continually becomes educational inheritance, while faithful stewardship continually generates new educational experience. Every architectural capability exists within the constitutional limits established in the previous chapter. The architecture therefore culminates not in infrastructure or artificial intelligence, but in renewed human stewardship.
+
+Receiving
+
+A stewardship-oriented architecture must be capable of faithfully receiving educational experience regardless of its form, origin, or medium.
+
+Receiving is the architecture’s first responsibility because no subsequent capability can operate upon experience that has never been received. Whether educational knowledge emerges through conversation, observation, reflection, performance, documentation, or another form yet to be imagined, the architecture must possess the capacity to receive it without prescribing how it must be expressed.
+
+This capability intentionally avoids specifying technologies or methods of collection. Transcription, handwritten notes, video recordings, assessment artifacts, classroom observations, and future forms of educational expression are all possible implementations rather than architectural requirements. The architecture requires only that educational experience can become part of educational memory without unnecessary loss.
+
+Receiving is therefore an architectural commitment to openness rather than a prescription for technology. It acknowledges that educational wisdom appears in many forms and that no single implementation can anticipate every way in which educators will create, share, and preserve their professional knowledge.
+
+Receiving prepares the way for preservation. An inheritance must first be received before it can be faithfully preserved.
