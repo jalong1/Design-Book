@@ -131,3 +131,21 @@ Institutions remember.
 The responsibility of architecture is more modest and, for that reason, more enduring. It creates the conditions under which remembering remains possible without presuming to remember on behalf of those it serves.
 
 Retrieving therefore protects the possibility of remembering while refusing the authority to interpret. The architecture faithfully returns educational inheritance to the community. The community, in turn, bears the responsibility of discerning its meaning and determining its future.
+
+Entrusting
+
+A stewardship-oriented architecture must be capable of supporting the faithful entrusting of educational inheritance from one generation of educators to the next.
+
+Educational knowledge fulfills its purpose not when it is merely preserved, but when it is entrusted. Every educator receives an inheritance shaped by those who came before, exercises judgment within the circumstances of the present, and leaves behind an inheritance for those who will follow. The responsibility of architecture is not to complete this work on behalf of the educator, but to ensure that the work remains possible.
+
+Entrusting requires more than the transfer of information. It requires sufficient continuity that future educators inherit context rather than fragments, relationships rather than isolated artifacts, and understanding rather than mere accumulation. An inheritance that cannot be meaningfully received cannot be faithfully entrusted again.
+
+This capability therefore reaches the natural limit of architecture. Infrastructure may receive educational experience, preserve it with its context, and faithfully retrieve it when needed. It cannot determine what future educators will value, reinterpret, revise, or extend. Those responsibilities belong to the communities who inherit the work and accept responsibility for its future.
+
+Continuity is not an architectural capability.
+
+It is the outcome of faithful entrusting.
+
+When educational inheritance is repeatedly received with humility, preserved with care, retrieved with fidelity, and entrusted with wisdom, continuity emerges naturally across generations. The architecture does not create this continuity. It simply cultivates the conditions under which it can endure.
+
+The measure of a stewardship-oriented architecture is therefore not the amount of information it contains, but the degree to which it enables each generation of educators to leave those who follow better prepared than they themselves began.
